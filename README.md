@@ -1,6 +1,6 @@
 # Smart Walking Cane 🚶‍♂️🦯
 
-A smart assistive device developed to help visually impaired individuals navigate their surroundings safely. This smart cane uses ultrasonic sensors for obstacle detection and provides feedback through buzzer sounds or vibrations.
+A smart assistive device developed to help visually impaired individuals navigate their surroundings safely. This smart cane uses ultrasonic sensors for obstacle detection and provides feedback through buzzer sounds or vibrations and track location with help of GPS module.
 
 ---
 
@@ -79,5 +79,5 @@ For collaboration or academic use, please contact us through official IET NITK c
 
 ## 📬 Contact
 
-📧 Email: [Insert official contact email]  
-🔗 Website: [Insert club or institution site]  
+📧 Email: [archisha192004@gmail.com]  
+🔗 Website: [https://iet.nitk.ac.in/]  
