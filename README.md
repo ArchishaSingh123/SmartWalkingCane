@@ -26,8 +26,7 @@ A smart assistive device developed to help visually impaired individuals navigat
 ---
 
 ## 🔌 Circuit Diagram
-
-![Circuit Diagram](circuitdiagram)  
+  
 *(<img width="1225" height="817" alt="image" src="https://github.com/user-attachments/assets/bd5fbeed-dc21-4145-b2a1-05fad344e750" />
 )*
 
