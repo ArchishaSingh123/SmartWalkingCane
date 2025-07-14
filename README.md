@@ -1,10 +1,10 @@
 # SmartWalkingCane
 This project is a smart walking cane designed to assist visually impaired individuals. It uses sensors to detect obstacles and alert the user through vibrations or sounds and tracks location through GPS.
 # Features
-Obstacle detection using ultrasonic sensors
-Buzzer/vibration feedback
-Compact and lightweight design
-Powered by a 9V battery
+*Obstacle detection using ultrasonic sensors
+*Buzzer/vibration feedback
+*Compact and lightweight design
+*Powered by a 9V battery
 # Hardware Used
 ESP32 microcontroller
 Ultrasonic Sensor (HC-SR04)
